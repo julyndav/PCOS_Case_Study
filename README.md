@@ -84,7 +84,7 @@ The interactive PowerBI dashboard developed for this project serves as an inform
 <br></br>
 
 ### Section 2: Age Analysis
-![sect2](https://github.com/julyndav/PCOS_Case_Study/blob/main/Images/Images/DashBrd2.png)
+![sect2](https://github.com/julyndav/PCOS_Case_Study/blob/main/Images/DashBrd2.png)
 
 <ul>
  <li>Even though there were only 465 participants, the data still provided an valueable insight into the symptoms of PCOS.</li>
@@ -94,7 +94,7 @@ The interactive PowerBI dashboard developed for this project serves as an inform
 
 ### Section 3: Effects 
 
-![Sect3](https://github.com/julyndav/PCOS_Case_Study/blob/main/Images/Images/DashBrd3.png)
+![Sect3](https://github.com/julyndav/PCOS_Case_Study/blob/main/Images/DashBrd3.png)
 
 <ul>
  <li>Majority of participants experience "regular" menstural cycles. One occurs every month and lasts 4-6 days.</li>
@@ -104,7 +104,7 @@ The interactive PowerBI dashboard developed for this project serves as an inform
 </ul>
 
 ### Symptoms
-![Sect4](https://github.com/julyndav/PCOS_Case_Study/blob/main/Images/Images/DashBrd4.png)<p>
+![Sect4](https://github.com/julyndav/PCOS_Case_Study/blob/main/Images/DashBrd4.png)<p>
 ###### <i>If you find yourself having these symptoms and are concerned about them, please see your health care provider.</i><p>
 
 <ul>
