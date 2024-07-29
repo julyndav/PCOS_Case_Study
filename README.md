@@ -74,7 +74,7 @@ The interactive PowerBI dashboard developed for this project serves as an inform
 
 # Dashboard & Analysis Overview:
 ### Section 1: Introduction
-![sect1](https://github.com/julyndav/PowerBI/blob/main/PCOS%20Case%20Study/Images/DashBrd1.png)
+![sect1](https://github.com/julyndav/PCOS_Case_Study/Images/DashBrd1.png)
 
 <ul>
 <li>Gives a brief synopsis of PCOS</li>
